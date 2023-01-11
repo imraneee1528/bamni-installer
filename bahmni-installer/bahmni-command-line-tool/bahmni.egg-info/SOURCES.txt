@@ -1,0 +1,8 @@
+bahmni.py
+setup.py
+bahmni.egg-info/PKG-INFO
+bahmni.egg-info/SOURCES.txt
+bahmni.egg-info/dependency_links.txt
+bahmni.egg-info/entry_points.txt
+bahmni.egg-info/requires.txt
+bahmni.egg-info/top_level.txt
