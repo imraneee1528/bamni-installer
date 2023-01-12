@@ -38,6 +38,8 @@ sudo mv bahmni-installer /opt/cat << EOF > /etc/yum.repos.d/pgdg-96.repo
 
 # Add repo postgresql
 
+cat << EOF > /etc/yum.repos.d/pgdg-96.repo
+
 [pgdg90]
 
 name=PostgreSQL 9.6 RPMs for RHEL/CentOS 7
