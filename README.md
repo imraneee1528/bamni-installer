@@ -54,6 +54,10 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-PGDG
 
 EOF
 
+# update repo
+
+yum update 
+
 # You can also configure custom inventory file instead of local.
 
 echo "export BAHMNI_INVENTORY=local" >> ~/.bashrc
