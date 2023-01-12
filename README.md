@@ -34,7 +34,7 @@ cd bamni-installer
 
 sudo rm -r /opt/bahmni-installer
 
-sudo mv bahmni-installer /opt/cat << EOF > /etc/yum.repos.d/pgdg-96.repo
+sudo mv bahmni-installer /opt/
 
 # Add repo postgresql
 
